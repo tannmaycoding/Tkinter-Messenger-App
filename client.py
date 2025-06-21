@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import scrolledtext, simpledialog, messagebox, font
 
 # Server details
-HOST = '192.168.1.35'
+HOST = 'IPv4 address'
 PORT = 12345
 
 # Socket setup
